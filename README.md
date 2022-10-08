@@ -1,7 +1,7 @@
 # sci-calc
 Scientific Calculator Interperter
 
-# REPL It
+
 
 
 
@@ -45,3 +45,8 @@ Sum to and Range  Operations
 ```python
 1 ~ 1000 # sums for 1 to 1000
 1..10 # [1,2,3,4,5,6,7,8,9,10] returns a range from 1 to 10 in array format
+```
+
+# How to use
+Clone repo 
+construct a calulator file similar to the one providied run python Interperter file.cl
