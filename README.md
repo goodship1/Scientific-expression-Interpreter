@@ -49,4 +49,4 @@ Sum to and Range  Operations
 
 # How to use
 Clone repo 
-construct a calulator file similar to the one providied run python Interperter file.cl
+construct a calulator file similar to the one providied run python Interperter.py file.cl
