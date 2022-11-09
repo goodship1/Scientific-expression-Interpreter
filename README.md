@@ -1,5 +1,5 @@
 # sci-calc
-A small Scientific Calculator Interperter written using Python 3 + using ply
+A Scientific expression Interpreter developed  using ply
 
 
 
