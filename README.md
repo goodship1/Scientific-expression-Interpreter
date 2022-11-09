@@ -1,4 +1,4 @@
-# sci-calc
+# Scientific expression Interpreter
 A Scientific expression Interpreter developed  using ply
 
 
